@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.columnList {
+    width: 25%;
+    margin-left: 0.2rem;
+    align-items: center;
+    justify-content: center;
+}
